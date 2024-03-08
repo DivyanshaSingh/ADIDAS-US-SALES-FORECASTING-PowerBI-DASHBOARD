@@ -32,7 +32,7 @@ In summary, I deliver actionable intelligence empowering strategic decision-make
 
 ## DAX Formula
 A new column was required to calculate the revenue:
-- **Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
+- Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
 
 ## Sales Forecasting
 
