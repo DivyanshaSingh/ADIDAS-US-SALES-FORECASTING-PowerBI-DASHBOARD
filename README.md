@@ -30,7 +30,28 @@ In summary, I deliver actionable intelligence empowering strategic decision-make
 - Trend of Price Sensitivity based on Product and Region and also by operating Profit & Margin.
 - Sales Forecasting with respect to Invoice Date and Total Sales.
 
+## Sales Forecasting
+
+![c3](https://github.com/DivyanshaSingh/ADIDAS-US-SALES-FORECASTING-PowerBI-DASHBOARD/assets/119395726/40133c5b-aa4e-4bf9-bb47-029f8b2c20e6)
+
+## Project Insights
+## Project Insights
+
+- **Retailer Analysis:** West gear in lead with 25% of units sold.
+- **Sales Method:** Major stakes of 0.36 billion or 360 million observed via In-store sales method.
+- **Product Performance:** Leading product is Men's street footwear with 0.209bn in sales followed by women's apparel, men's athletic footwear and so on. Women's athletic footwear needs attention as in comparison to men's athletic footwear, it is fairly low.
+- **Geographical Analysis:** West in lead with 30% and northeast is also following up; we can match them with appropriate marketing strategies.
+- **Price Sensitivity:** By analysis, I found price per unit is more likely to decrease when sum of units sold is 25 or less than otherwise (Average: 45.32). On the other hand, Price per unit is more likely to increase when sum of units sold is more than 745 than otherwise (on average: 44.75).
+- **Forecast:** Performed sales forecasting of next 15 days with confidence interval of 95%, with peak day for sales in next 15 days on January 08, 2022.
+
+## Conclusion
+
+By developing a sales forecasting dashboard incorporating the outlined KPIs and insights, Adidas can make data-driven decisions to optimize sales strategies, enhance operational efficiency, and ultimately drive revenue growth. Continuous monitoring and refinement of the forecasting models will enable the company to adapt to changing market conditions and consumer preferences effectively.
+
+
 ## DAX Formula
 A new column was required to calculate the revenue:
 ```DAX
 Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
+
+
