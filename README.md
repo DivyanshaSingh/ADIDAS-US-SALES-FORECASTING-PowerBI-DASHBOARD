@@ -1,7 +1,5 @@
 # ADIDAS US SALES FORECASTING POWER BI DASHBOARD
 
-Click To Proceed
-https://github.com/DivyanshaSingh/ADIDAS-US-SALES-FORECASTING-PowerBI-DASHBOARD/issues/1#issue-2158721564
 ![c1](https://github.com/DivyanshaSingh/ADIDAS-US-SALES-FORECASTING-PowerBI-DASHBOARD/assets/119395726/63ba4175-341e-4669-8ddb-2ec4e68aa6da)
 
 ![c2](https://github.com/DivyanshaSingh/ADIDAS-US-SALES-FORECASTING-PowerBI-DASHBOARD/assets/119395726/412aecaf-a536-47dd-afb1-960f5f45ba0d)
