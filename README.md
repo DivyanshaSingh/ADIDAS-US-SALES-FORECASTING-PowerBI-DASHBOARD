@@ -32,7 +32,7 @@ In summary, I deliver actionable intelligence empowering strategic decision-make
 - Trend of Price Sensitivity based on Product and Region and also by operating Profit & Margin.
 - Sales Forecasting with respect to Invoice Date and Total Sales.
 
-## DAX Formula
+## DAX Formulas
 A new column was required to calculate the revenue:
 - Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
 
