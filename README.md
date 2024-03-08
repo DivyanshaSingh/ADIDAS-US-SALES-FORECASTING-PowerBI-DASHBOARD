@@ -30,11 +30,14 @@ In summary, I deliver actionable intelligence empowering strategic decision-make
 - Trend of Price Sensitivity based on Product and Region and also by operating Profit & Margin.
 - Sales Forecasting with respect to Invoice Date and Total Sales.
 
+## DAX Formula
+A new column was required to calculate the revenue:
+- **Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
+
 ## Sales Forecasting
 
 ![c3](https://github.com/DivyanshaSingh/ADIDAS-US-SALES-FORECASTING-PowerBI-DASHBOARD/assets/119395726/40133c5b-aa4e-4bf9-bb47-029f8b2c20e6)
 
-## Project Insights
 ## Project Insights
 
 - **Retailer Analysis:** West gear in lead with 25% of units sold.
@@ -49,9 +52,6 @@ In summary, I deliver actionable intelligence empowering strategic decision-make
 By developing a sales forecasting dashboard incorporating the outlined KPIs and insights, Adidas can make data-driven decisions to optimize sales strategies, enhance operational efficiency, and ultimately drive revenue growth. Continuous monitoring and refinement of the forecasting models will enable the company to adapt to changing market conditions and consumer preferences effectively.
 
 
-## DAX Formula
-A new column was required to calculate the revenue:
-```DAX
-Revenue = ('Table 1 (Data Sales Adidas)'[Price per Unit] * 'Table 1 (Data Sales Adidas)'[Units Sold])
+
 
 
